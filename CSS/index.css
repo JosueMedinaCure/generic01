@@ -1,6 +1,18 @@
-.rojo{
-    background-color: aqua;
-    width: 100%;
-    color: red;
-
+.circulo{
+    width: 60px;
+    height: 60px;
+    background-color: aquamarine;
+    border-radius: 100%;
 }
+.cuadrado{
+    width: 60px;
+    height: 60px;
+    background-color: brown;
+    transition: .6s;
+}
+
+.cuadrado:hover{
+    background-color: black;
+}
+
+
