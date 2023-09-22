@@ -1,0 +1,1 @@
+"it's a manudo pienso en ella)".split(' ')
